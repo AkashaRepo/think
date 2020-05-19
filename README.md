@@ -8,3 +8,6 @@ If think is called without an argument, it will instead print the most recent co
 This allows quick note taking without having to open a text editor or create a new file, Simply dump text into any terminal.
 
 The thoughts are formated as org mode headings for easy curation in emacs latter on.
+
+# Installation
+To install, simply mark think.sh as executable and put a link somewhere in your $PATH, To remove simply delete it.
