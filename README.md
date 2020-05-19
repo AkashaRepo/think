@@ -11,3 +11,21 @@ The thoughts are formated as org mode headings for easy curation in emacs latter
 
 # Installation
 To install, simply mark think.sh as executable and put a link somewhere in your $PATH, To remove simply delete it.
+
+# Usage
+```bash
+$ think
+* Tue 19 May 2020 10:30:09 AM PDT
+	I think therefore I am
+$ think This is an example thought
+* Tue 19 May 2020 10:30:17 AM PDT
+	This is an example thought
+$ think       
+* Tue 19 May 2020 10:30:09 AM PDT
+	I think therefore I am.
+
+* Tue 19 May 2020 10:30:17 AM PDT
+	This is an example thought
+
+$
+```
