@@ -21,8 +21,12 @@ $ think
 $ think This is an example thought.
 * Tue 19 May 2020 05:06:08 PM PDT
 	This is an example thought.
+$ think
+* Tue 19 May 2020 05:06:00 PM PDT
+	I think therefore I am.
 
-<<<<<<< HEAD
+* Tue 19 May 2020 05:06:08 PM PDT
+	This is an example thought.
 $
 ```
 # Future ideas
@@ -30,12 +34,5 @@ $
 * Make code more tidy.
 * Sanitize inputs so apostrophes and quotes won't break it.
 * create dream command that reads a thought file and runs it through a markov chain.
-=======
-$ think
-* Tue 19 May 2020 05:06:00 PM PDT
-	I think therefore I am.
 
-* Tue 19 May 2020 05:06:08 PM PDT
-	This is an example thought.
-```
->>>>>>> d47bbf7ddda42e4fbcc508f4fe8a6ff816bdc668
+
