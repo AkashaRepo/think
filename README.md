@@ -29,3 +29,8 @@ $ think
 
 $
 ```
+# Future ideas
+
+* Make code more tidy.
+* Sanitize inputs so apostrophes and quotes won't break it.
+* create dream command that reads a thought file and runs it through a markov chain.
