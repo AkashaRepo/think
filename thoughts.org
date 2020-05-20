@@ -4,3 +4,6 @@
 * Tue 19 May 2020 05:06:08 PM PDT
 	This is an example thought.
 
+* Tue 19 May 2020 05:33:53 PM PDT
+	crazy idea: Running thoughts through a markov chain to create dreams
+
